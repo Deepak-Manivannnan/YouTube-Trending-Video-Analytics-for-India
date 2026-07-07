@@ -62,7 +62,7 @@ Transformed data loaded into BigQuery as a single unified table —
 22 queries across 5 sections covering category performance, channel rankings,
 video highlights, language distribution, and publishing patterns.
 
-Full query file: `sql/analysis_queries.sql`
+Full query file: `sql/youtube_trending_sql_analysis.sql`
 
 ### Step 5 — Looker Studio Dashboard
 3-page interactive dashboard built directly on the BigQuery table.
@@ -123,7 +123,7 @@ Filters for Year, Category, and Language applied across all pages.
 
 ## Dashboard
 
-📊 **[View Dashboard](https://lookerstudio.google.com/your-dashboard-link-here)**
+📊 **[View Dashboard](https://datastudio.google.com/reporting/303fdfed-5909-481a-981e-f833f4804d96)**
 
 **Page 1 — Trending Overview**
 
